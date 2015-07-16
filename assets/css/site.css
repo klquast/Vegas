@@ -1,0 +1,75 @@
+.main-content {
+    border-left: 2px dashed #555;
+    border-right: 2px dashed #555;
+    min-height: 1000px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container.main-content {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.team-info {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.team-info:hover {
+    background-color: #eee;
+}
+
+.team-info .row {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.team-info h3 {
+    margin: 0;
+}
+
+.manage-icons button {
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.manage-icons .fa {
+    font-size: 20px;
+}
+
+.progress-wrapper {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    height: 20px;
+    margin-top: 10px;
+    position: relative;
+    width: 100%;
+}
+
+.team-progress-bar {
+    height: 100%;
+    min-width: 1px;
+}
+
+#team-1 {
+    background-color: #62A07B;
+    width: 7.18%;
+}
+
+#team-2 {
+    background-color: #536C8D;
+    width: 37%;
+}
+
+#team-3 {
+    background-color: #5C4F79;
+    width: 84%;
+}
+
+#team-4 {
+    background-color: #a25da0;
+    width: 26%;
+}
