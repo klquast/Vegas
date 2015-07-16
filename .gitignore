@@ -8,3 +8,6 @@ node_modules
 
 # Dependency directory
 bower_components
+
+# Dev file
+gulpfile.js
